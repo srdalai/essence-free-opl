@@ -1787,6 +1787,8 @@ button:focus {
 
 #blog .blog-item-img {
   position: relative;
+  /* height: 370px;
+  height: 560px; */
 }
 
 #blog .blog-item-img img {
