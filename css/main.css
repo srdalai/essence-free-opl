@@ -2395,3 +2395,10 @@ footer .menu li a:hover {
   background-color: rgb(247, 234, 255);
   color: #ffffff;
 }
+
+@media screen and (min-width: 992px) {
+  .secondBox {
+    background-color: lightgreen;
+    min-height: 250px;
+  }
+}
