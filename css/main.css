@@ -2391,14 +2391,24 @@ footer .menu li a:hover {
   margin-bottom: 0;
 }
 
-.smallCard {
-  background-color: rgb(247, 234, 255);
+.smallCard1 {
+  background-color: rgb(216, 160, 250);
+  color: #ffffff;
+}
+
+.smallCard2 {
+  background-color: rgb(181, 200, 241);
+  color: #ffffff;
+}
+
+.smallCard3 {
+  background-color: rgb(245, 202, 146);
   color: #ffffff;
 }
 
 @media screen and (min-width: 992px) {
   .secondBox {
-    background-color: lightgreen;
-    min-height: 250px;
+    /* background-color: lightgreen;
+    min-height: 250px; */
   }
 }
