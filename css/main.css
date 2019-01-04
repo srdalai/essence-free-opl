@@ -2416,3 +2416,9 @@ footer .menu li a:hover {
     min-height: 250px; */
   }
 }
+
+.roundImage {
+  width: 75%;
+  object-fit:cover;
+  border-radius: 50%;
+}
